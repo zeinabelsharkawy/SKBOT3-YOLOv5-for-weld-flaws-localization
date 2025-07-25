@@ -5,3 +5,4 @@ After image preprocessing,
 2- Just replace the common.py and yolo.py in the models folder.
 3- Use WeldFlaws_data.yaml for data description and location. 
 4- Use the proposed model in yolov5_SK_Bot.yaml.
+5- Use WeldFlaws_data.yaml and yolov5_SK_Bot.yaml in train.py.
