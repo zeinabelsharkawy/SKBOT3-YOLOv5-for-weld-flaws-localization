@@ -1,4 +1,4 @@
-# Enhanced-YOLOv5-for-weld-flaws-localization-
+# Enhanced-YOLOv5(SKBOT3-YOLOv5) for weld flaws localization
 Developing YOLOv5 for weld flaws detection and localization in gamma radiography images based on attention mechanisms.
 After image preprocessing,
 1- You can use the official YOLOv5 from https://github.com/ultralytics/yolov5
